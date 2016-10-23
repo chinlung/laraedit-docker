@@ -12,6 +12,7 @@ alias fd='find . -type d -name'
 
 alias now='date +%T'
 
+alias php='php -dzend_extension=xdebug.so'
 alias art='php artisan'
 
 alias phpspec='vendor/bin/phpspec'
